@@ -6,7 +6,7 @@
     "airbnb-typescript/base"
   ],
   "parserOptions": {
-    "project": "./tsconfig.json"
+    "project": "**/tsconfig.json"
   },
   "plugins": ["jest", "@typescript-eslint"],
   "env": {
@@ -17,6 +17,7 @@
     "no-lonely-if": "off",
     "class-methods-use-this": "off",
     "arrow-body-style": "off",
-    "no-loop-func": "off"
+    "no-loop-func": "off",
+    "no-underscore-dangle": "off"
   }
 }
