@@ -48,3 +48,21 @@
 
   - [Reference Answer](https://www.frontendinterviewhandbook.com/html-questions#why-is-it-generally-a-good-idea-to-position-css-links-between-headhead-and-js-scripts-just-before-body-do-you-know-any-exceptions)
 </details>
+
+<details>
+  <summary>What is progressive rendering?</summary>
+
+  - [Reference Answer](https://www.frontendinterviewhandbook.com/html-questions#what-is-progressive-rendering)
+</details>
+
+<details>
+  <summary>Why you would use a `srcset` attribute in an image tag? Explain the process the browser uses when evaluating the content of this attribute.</summary>
+
+  - [Reference Answer](https://www.frontendinterviewhandbook.com/html-questions#why-you-would-use-a-srcset-attribute-in-an-image-tag-explain-the-process-the-browser-uses-when-evaluating-the-content-of-this-attribute)
+</details>
+
+<details>
+  <summary>Have you used different HTML templating languages before?</summary>
+
+  - [Reference Answer](https://www.frontendinterviewhandbook.com/html-questions#have-you-used-different-html-templating-languages-before)
+</details>
